@@ -1,12 +1,45 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant **Weather App** built with **React.js** and the **OpenWeather API**.  
+This app allows users to search for any city and instantly view real-time weather details such as temperature, conditions, and humidity.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 [View Project](https://weather-application-api-132006.netlify.app/)  
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
+- Search weather by city name  
+- Displays temperature, weather condition, humidity, and wind speed  
+- Fetches real-time weather data from **OpenWeather API**  
+- Clean and modern UI with smooth updates  
+- Error handling for invalid city names  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in  your project.
+---
+
+## 🧠 Skills Demonstrated
+- API integration and data fetching in React  
+- State management using React Hooks  
+- Conditional rendering based on API response  
+- UI design and data presentation  
+- Handling asynchronous operations and errors  
+
+---
+
+## 🛠️ Tech Stack
+- **React.js**  
+- **OpenWeather API**  
+- **CSS3**
+- **JavaScript (ES6)**  
+
+---
+
+## 🎯 Project Purpose
+This project was created to practice **API integration** and **React-based dynamic UI updates**.  
+It demonstrates how to fetch and display external data in a clean, user-friendly way.
+
+---
+
+## 📜 License
+This project is open-source and available under the **MIT License**.
